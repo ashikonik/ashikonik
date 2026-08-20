@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="920" height="240" viewBox="0 0 920 240" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
-  <rect width="920" height="240" fill="#0d1117"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="300" viewBox="0 0 920 300" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <rect width="920" height="300" fill="#0d1117"/>
 
   <text x="24" y="30" fill="#8b949e" font-size="12">> research network --live</text>
   <rect x="212" y="18" width="7" height="14" fill="#3fb950">
@@ -150,5 +150,32 @@
     <text x="460" y="231">ONE Simulator</text>
     <text x="650" y="48">DTN Routing</text>
     <text x="830" y="186">Edge Intelligence</text>
+  </g>
+
+  <line x1="0" y1="250" x2="920" y2="250" stroke="#21262d" stroke-width="1.5"/>
+
+  <g>
+    <rect x="35" y="242" width="60" height="9" rx="1" fill="#21262d" stroke="#30363d" stroke-width="1" transform="rotate(-2 65 246.5)"/>
+    <rect x="38" y="234" width="56" height="9" rx="1" fill="#30363d" stroke="#30363d" stroke-width="1" transform="rotate(1.5 66 238.5)"/>
+    <rect x="40" y="226" width="52" height="9" rx="1" fill="#161b22" stroke="#30363d" stroke-width="1" transform="rotate(-1 66 230.5)"/>
+  </g>
+
+  <g stroke="#8b949e" stroke-width="1.5">
+    <path fill="none" stroke-linecap="round" d="M 96,216 C 112,220 122,208 116,196 C 112,189 102,190 100,197">
+      <animate attributeName="d"
+        values="M 96,216 C 112,220 122,208 116,196 C 112,189 102,190 100,197;
+                 M 96,216 C 118,224 130,208 120,192 C 114,183 100,187 100,197;
+                 M 96,216 C 112,220 122,208 116,196 C 112,189 102,190 100,197"
+        keyTimes="0;0.88;1" dur="7s" repeatCount="indefinite"/>
+    </path>
+
+    <g fill="#161b22">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-1.5; 0,0" dur="4s" repeatCount="indefinite"/>
+      <path d="M 40,224 C 39,206 54,190 74,190 C 93,190 99,204 96,218 C 93,229 74,234 56,232 C 46,231 40,228 40,224 Z"/>
+      <circle cx="47" cy="199" r="10"/>
+      <polygon points="39,195 43,187 48,196"/>
+      <polygon points="46,196 51,187 55,196"/>
+      <path fill="none" d="M 43,200 Q 47,203 51,200"/>
+    </g>
   </g>
 </svg>
