@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/network-topology.svg" alt="animated network topology diagram, with a cat asleep on a stack of papers" width="100%" />
+  <img src="assets/study-desk.svg" alt="an illustrated desk scene: a laptop running a live network diagram, a reading lamp, and a cat asleep on a stack of books" width="100%" />
 </div>
 
 <h1 align="center">Md. Ashik-Uz-Zaman</h1>
@@ -87,24 +87,35 @@ the shared methodology behind the IoV work above.
 names MediVault and CareNexus before this implementation · ⁴ coursework project, not
 published as a public repository</sub>
 
-## §5 · Skills
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### §5 · Skills
 
 - **Programming Languages** — C, C++, Java, Python, JavaScript
 - **Web & Database** — HTML, CSS, React, Express, MySQL
 - **Research Tools** — ONE Simulator, LaTeX, Git & GitHub
 - **Other** — VS Code, Adobe Photoshop, Academic Writing
 
-## §6 · Activity
+</td>
+<td valign="top" width="50%">
+
+### §6 · Connect
+
+- [GitHub](https://github.com/ashikonik)
+- [LinkedIn](https://www.linkedin.com/in/ashikonik)
+- [Google Scholar](https://scholar.google.com/citations?user=6up31n8AAAAJ&hl=en)
+- [ORCID](https://orcid.org/0009-0008-1047-4361)
+- [ashikonik052@gmail.com](mailto:ashikonik052@gmail.com)
+
+</td>
+</tr>
+</table>
+
+## §7 · Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashikonik&theme=github-dark)
-
-## §7 · Connect
-
-Find me on [GitHub](https://github.com/ashikonik),
-[LinkedIn](https://www.linkedin.com/in/ashikonik),
-[Google Scholar](https://scholar.google.com/citations?user=6up31n8AAAAJ&hl=en),
-and [ORCID](https://orcid.org/0009-0008-1047-4361), or email me at
-[ashikonik052@gmail.com](mailto:ashikonik052@gmail.com).
 
 <div align="center">
   <img src="assets/cat-mark.svg" alt="" width="24" />
